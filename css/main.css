@@ -345,6 +345,18 @@ Primary use:
   .p-r-15-lg {padding-right: 15px;}
 
   .w-full-lg {width: 100%;}
+  .IDK {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+  #IDK1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
 
   /*---------------------------------------------*/
 
