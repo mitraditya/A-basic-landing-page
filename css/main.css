@@ -372,6 +372,18 @@ Primary use:
   .p-r-15-md {padding-right: 15px;}
 
   .w-full-md {width: 100%;}
+  .IDK {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+  #IDK1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
   /*---------------------------------------------*/
 
 }
@@ -402,6 +414,18 @@ Primary use:
   .respon1 {
     font-size: 45px;
   }
+  .IDK {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+  #IDK1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
   
 }
 
@@ -426,6 +450,18 @@ Primary use:
   .p-r-15-ssm {padding-right: 15px;}
 
   .w-full-ssm {width: 100%;}
+  .IDK {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
+  #IDK1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+  }
   /*---------------------------------------------*/
 
 }
